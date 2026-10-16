@@ -4,6 +4,8 @@ https://overthewire.org/wargames/bandit/bandit29.html
 # Concepts
 * Connect to a github repo and clone the repo.
   * Cloning git repo using ssh instead of http
+  * Getting commit history
+  * Reverting to previous commits
 * Find the password
   
 # Method to Solve
